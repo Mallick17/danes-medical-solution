@@ -1,5 +1,6 @@
 @import url(<link href="https://fonts.googleapis.com/css?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">);
 header {
-    background-color:bisque;
+    background-color:rgb(194, 16, 16);
     padding: 20px;
+    text-align: center;
 }
